@@ -1,0 +1,123 @@
+{
+    "statuses": [
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Thu Sep 10 23:59:38 +0000 2015",
+            "id": 642125308682993700,
+            "id_str": "642125308682993665",
+            "text": "Liposmal L-glutathione helps me and an important #medicine for helping #neurological conditions &amp; health.  #hospital #science",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 497752640,
+                "id_str": "497752640",
+                "name": "Peta Manning",
+                "screen_name": "Trixie_Tea",
+                "location": "Shepparton, Australia",
+                "description": "An artist with Neuro/Immune dysfunction.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 123,
+                "friends_count": 381,
+                "listed_count": 19,
+                "created_at": "Mon Feb 20 09:53:32 +0000 2012",
+                "favourites_count": 1717,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 866,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/641027096047841280/IUdJLKDU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/641027096047841280/IUdJLKDU_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "medicine",
+                        "indices": [
+                            49,
+                            58
+                        ]
+                    },
+                    {
+                        "text": "neurological",
+                        "indices": [
+                            71,
+                            84
+                        ]
+                    },
+                    {
+                        "text": "hospital",
+                        "indices": [
+                            111,
+                            120
+                        ]
+                    },
+                    {
+                        "text": "science",
+                        "indices": [
+                            121,
+                            129
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.023,
+        "max_id": 642125308682993700,
+        "max_id_str": "642125308682993665",
+        "next_results": "?max_id=642125308682993664&q=medicine%20%23medicine%20lang%3Aen%20since%3A2015-09-09%20until%3A2015-09-11&count=1&include_entities=1",
+        "query": "medicine+%23medicine+lang%3Aen+since%3A2015-09-09+until%3A2015-09-11",
+        "refresh_url": "?since_id=642125308682993665&q=medicine%20%23medicine%20lang%3Aen%20since%3A2015-09-09%20until%3A2015-09-11&include_entities=1",
+        "count": 1,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
